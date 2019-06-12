@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPCoroutine</string>
+    <string name="button_label_trigger">Trigger</string>
+</resources>
